@@ -1,7 +1,7 @@
 # SCT_SD_2
 Repository containing software development TASK 2
 -------------------------
-### SkillCraft Technology Internship Task
+## SkillCraft Technology Internship Task
  This repository contains a project completed during my internship as a Software Development Intern at SkillCraft Technology. 
  
  This task focuses on enhancing my skills in Python programming, logic building, and basic user input handling.
@@ -10,8 +10,9 @@ Repository containing software development TASK 2
 ## Task 02: Number Guessing Game
 
 A Python program that generates a random number between 1 and 100 and challenges the user to guess it within a limited number of attempts.
-
 The program gives feedback after each guess and includes input validation for a seamless user experience.
+
+
 ---------------------------------------
 ## How the Game Works
 - The program generates a random number in the range 1 to 100.
@@ -76,3 +77,4 @@ Too low! Try again.
 Enter your guess: 72
 
 Congratulations! You guessed the number 72 in 4 attempts
+-----------------------------------
